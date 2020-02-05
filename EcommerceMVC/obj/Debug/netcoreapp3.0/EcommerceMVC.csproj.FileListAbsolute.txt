@@ -241,3 +241,5 @@
 \\Mac\Home\Desktop\EcommerceMVC\EcommerceMVC\obj\Debug\netcoreapp3.0\EcommerceMVC.pdb
 \\Mac\Home\Desktop\EcommerceMVC\EcommerceMVC\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\Shared\_AdminLayout.cshtml.g.cs
 \\Mac\Home\Desktop\EcommerceMVC\EcommerceMVC\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\DashBoard\Index.cshtml.g.cs
+\\Mac\Home\Desktop\EcommerceMVC\EcommerceMVC\obj\Debug\netcoreapp3.0\EcommerceMVC.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\EcommerceMVC\EcommerceMVC\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\Login\index.cshtml.g.cs
